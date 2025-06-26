@@ -33,7 +33,7 @@
 <h2>📂 Files Included</h2>
 <ul>
   <li><code>Incident_Report_YummyRecipes.pdf</code> – Full report</li>
-  <li><code>tcpdump_analysis.txt</code> – (Optional) Network protocol breakdown</li>
+  <li><code>tcpdump_analysis.docx</code> – (Optional) Network protocol breakdown</li>
 </ul>
 
 <h2>🎯 Objective</h2>

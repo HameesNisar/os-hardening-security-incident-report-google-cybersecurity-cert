@@ -40,4 +40,4 @@
 <p>This project showcases my ability to respond to incidents, interpret network traffic, and apply OS-level hardening techniques in real scenarios.</p>
 
 <h2>📚 Certificate Info</h2>
-<p><strong>Google Cybersecurity Certificate – Course 3: Understanding Security Layers</strong></p>
+<p><strong>Google Cybersecurity Certificate – Connect and Protect: Networks and Network Security</strong></p>
